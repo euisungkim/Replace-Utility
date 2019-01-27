@@ -1,8 +1,5 @@
 /*
 Name: Daniel Eui Sung Kim
-CS370: Software Engineering
-Deliverable #3
-Mr. Abreu
  */
 
 package edu.qc.seclass.replace;
